@@ -1,10 +1,10 @@
-package com.dailycodework.dreamshops;
+package com.dailycodework.demoshops;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DreamShopsApplicationTests {
+class DemoShopsApplicationTests {
 
 	@Test
 	void contextLoads() {

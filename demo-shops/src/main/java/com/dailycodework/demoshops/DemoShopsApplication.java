@@ -1,13 +1,13 @@
-package com.dailycodework.dreamshops;
+package com.dailycodework.demoshops;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DreamShopsApplication {
+public class DemoShopsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DreamShopsApplication.class, args);
+		SpringApplication.run(DemoShopsApplication.class, args);
 	}
 
 }
